@@ -1,0 +1,12 @@
+[USER] 21:22: what is first movie in the dataset
+[AI] 21:22: Kansas Saloon Smashers
+
+[USER] 21:23: what is plot of the Jack and the Beanstalk
+[AI] 21:24: The earliest known adaptation of the classic fairytale, this films shows Jack trading his cow for the beans, his mother forcing him to drop them in the front yard, and beig forced upstairs. As he sleeps, Jack is visited by a fairy who shows him glimpses of what will await him when he ascends the bean stalk. In this version, Jack is the son of a deposed king. When Jack wakes up, he finds the beanstalk has grown and he climbs to the top where he enters the giant's home. The giant finds Jack, who narrowly escapes. The giant chases Jack down the bean stalk, but Jack is able to cut it down before the giant can get to safety. He falls and is killed as Jack celebrates. The fairy then reveals that Jack may return home as a prince.
+
+[USER] 21:24: how many rows are there in the dataset
+[AI] 21:24: I am unable to determine the number of rows in the dataframe.
+
+[USER] 21:25: what is the release date of the Terrible Teddy, the Grizzly King?
+[AI] 21:25: 1901
+
