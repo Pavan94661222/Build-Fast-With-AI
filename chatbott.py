@@ -113,7 +113,7 @@ def initialize_ai_model():
         return ChatGoogleGenerativeAI(
             model="gemini-2.0-flash",
             temperature=0.3,
-            google_api_key="AIzaSyDA1fEXYfymeC-ZiRj4yK0cDMZJemZGpZU",
+            google_api_key="ENTER YOUR API KEY",
         )
     except Exception as e:
         st.error(f"❌ Model initialization failed: {str(e)}")
