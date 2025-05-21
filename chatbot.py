@@ -45,7 +45,7 @@ def setup_rag(docs):
 
         llm = HuggingFaceHub(
             repo_id="google/flan-t5-xxl",
-            huggingfacehub_api_token="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",
+            huggingfacehub_api_token="ENTER YOUR APY KEY",
             model_kwargs={"temperature": 0.5, "max_length": 512}
         )
 
