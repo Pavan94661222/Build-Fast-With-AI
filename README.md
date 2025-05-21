@@ -21,3 +21,8 @@ A Retrieval-Augmented Generation (RAG) chatbot implementation using LangChain, s
 git clone https://github.com/Pavan94661222/Build-Fast-With-AI.git
 cd rag-chatbot
 pip install -r requirements.txt
+# Create virtual environment
+python -m venv venv
+
+# Activate environment
+.\venv\Scripts\Activate.ps1
