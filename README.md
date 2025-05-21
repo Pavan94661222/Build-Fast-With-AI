@@ -15,6 +15,7 @@ A Retrieval-Augmented Generation (RAG) chatbot implementation using LangChain, s
 ## Requirements
 - Python 
 - Hugging Face API token
+- Gemini api for chatbot1.py
 
 ## Installation
 ```bash
